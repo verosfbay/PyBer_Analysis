@@ -25,6 +25,8 @@ Over the course of this time series, one can see that Total Fares are highest fo
 - Between February and March, there is a notable spike at the end of February for all cities
 - Between March and April, there are a couple of ups and downs for Urban cities, while Suburban and Rural cities stay relatively flat 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+## Business Recommendations
+My three business recommendations to the the CEO of PyBer for addressing any disparities among the city types are as follows:
+1. Look into what is causing the uprick in Total Fares in the month of January for Urban and Suburban cities, and see whether it's possible to get a bigger increase in Rural fares as well. 
+2. Look into what causes a significant uptick in Fares for all cities at the end of February, there may be special events happening across the country so it could make sense to hire more drivers in anticipation, to make sure that there are enough drivers for the requested rides. 
+3. Look into what is causing a slowdown from March to April, when all the city types experience a dip in Total Fares. It could make sense to run a promotion campaign to get more people to take more rides. 
